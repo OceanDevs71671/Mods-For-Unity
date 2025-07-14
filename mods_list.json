@@ -1,0 +1,10 @@
+[
+  {
+    "id": "cool-mod",
+    "name": "Cool Mod",
+    "author": "Ocean",
+    "description": "Adds a new weapon.",
+    "icon": "https://example.com/mods/cool-mod/icon.png",
+    "bundle": "https://example.com/mods/cool-mod/mod.unity3d"
+  }
+]
