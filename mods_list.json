@@ -1,9 +1,9 @@
 [
   {
-    "id": "cool-mod",
-    "name": "Cool Mod",
+    "id": "cube-mod",
+    "name": "Cube",
     "author": "Ocean",
-    "description": "Adds a new weapon.",
+    "description": "Adds a Cube.",
     "icon": "https://example.com/mods/cool-mod/icon.png",
     "bundle": "https://example.com/mods/cool-mod/mod.unity3d"
   }
